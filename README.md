@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-saxena-07&show_icons=true&locale=en" alt="prateek-saxena-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-saxena-07&" alt="prateek-saxena-07" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-saxena-07&theme=github_dark" alt="prateek-saxena-07" />
