@@ -18,3 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-saxena-07&" alt="prateek-saxena-07" /></p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-saxena-07&theme=github_dark" alt="prateek-saxena-07" />
+
+  <img src="https://github.com/prateek-saxena-07/prateek-saxena-07/output/snake.svg">
