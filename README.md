@@ -15,12 +15,17 @@
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
   <!-- Add your social media links here -->
-  <a href="https://www.linkedin.com/in/prateek-saxena-7b05b1212/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://codepen.io/prateeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prateeek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prateek-saxena-7b05b1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek-saxena-7b05b1212" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/saxenaprateek007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saxenaprateek007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saxenaprateek007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saxenaprateek007" height="30" width="40" />
   </a>
-<!--   <a href="https://twitter.com/your-twitter-profile" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
+  <a href="https://www.cloudskillsboost.google/public_profiles/942ab7eb-a54e-4549-8847-5625c769d800" target="blank"><img align="center" 
+   <a href="https://twitter.com/your-twitter-profile" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" align="center"/>
+  </a> 
+  
+  <a href="https://prateek-s-portfolio.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72649014/166218874-c255bf1f-338e-46f6-bbfe-ff2b4428c3fd.svg" alt="Prateek's Portfolio" height="45" width="55" /></a>
   <!-- Add more links as needed -->
 </p>
 
