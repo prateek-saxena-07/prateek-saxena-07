@@ -84,7 +84,7 @@
 Contribution Streak
  </h2> 
 <p align="center"> 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-saxena-07&theme=dark&"  /> 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-saxena-07&theme=dark"/> 
  </p> 
 
 
