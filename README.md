@@ -3,7 +3,7 @@
 <li align="left">🌱 I’m currently learning about **Full Stack Development and Cloud technologies** 
 </li>
 
-<br/> 
+<br/>  
 
 <!-- Profile Views -->
 <p align="center">
